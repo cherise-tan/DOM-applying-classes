@@ -29,6 +29,10 @@ div {
   background-color: purple;
 }
 
+.orange {
+  background-color: orange;
+}
+
 .invisible {
   display: none;
 }
