@@ -8,8 +8,7 @@ function start () {
   one();
   two();
   three();
-  makeVisible();
-    
+  makeVisible();  
   // Your turn! Create a new function called `two`, then call it from here.
 }
 
